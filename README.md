@@ -1,7 +1,5 @@
 # 🌐 FYP-25-S2-33 
 
-A brief description of your project goes here. Make it one or two sentences summarizing what this is about.
-
 ---
 
 ## 📁 About the Project

@@ -4,10 +4,15 @@
 
 ## 📁 About the Project
 
-This project  
+This project encompasses implementing a travel-agent chatbot 
 
 Features include:
--
+
+- Answer FAQ
+- Ticket Creation (relayed to human when bot is unable to process it)
+- Language switching (offer in multiple languages)
+- Voice to text integration
+- User feedback collection after end of chat (rate 1-5)
 
 ---
 
@@ -17,7 +22,6 @@ Features include:
 - **Nicolas Ng** – Frontend Developer  
 - **Lucas / Nicholas Ting** – Technical Lead  
 - **Danish** – Documentation Lead 
-- 
 
 ---
 
